@@ -1,0 +1,35 @@
+h1{
+    color: #ffffff;
+    text-align: center; 
+    padding: 20px;
+}
+p{
+    color: #5500ff;
+    text-align: center; 
+}
+li{
+    color: #099000;
+    font-style: oblique;
+}
+
+hr{
+    color: 0;
+}
+.header{
+    background-color: #505050;
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px;
+}
+.item{
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    margin: 0px;
+}
+
